@@ -1,29 +1,44 @@
-# Create React Express App
+# TITLE NEEDED
 
-## About This Boilerplate
+### Table of Contents 
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
+* [Repository](#Repository) 
+* [Technology Used](#Technology-Used) 
+* [User Story](#User-Story)
+* [Main Application](#Main-Application)
+* [Contact Info](#Contact-Info)
+* [Conclusion](#Conclusion)
 
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+# Repository
 
-## Starting the app locally
+- This repository is for...
 
-Start by installing front and backend dependencies. While in this directory, run the following command:
+*LINK TO DEMO VIDEO*
 
-```
-npm install
-```
 
-This should install node modules within the server and the client folder.
+# Technology-Used
 
-After both installations complete, run the following command in your terminal:
+- To build this project I used...
 
-```
-npm start
-```
+# User-Story
 
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
+- To begin the application...
 
-## Deployment (Heroku)
 
-To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+### Main-Application
+
+*IMAGES BELOW*
+
+*Main-Page*
+ <!-- insert images -->
+
+*END OF APPLICATION*
+
+# Contact-Info:
+
+- Name: 
+- Email: 
+
+# Conclusion
+
+- Overall...
